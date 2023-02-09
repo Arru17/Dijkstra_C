@@ -1,0 +1,10 @@
+9
+Consultorio_A Especialidad_1 10 1
+sultorio_B Especialidad_2 10 8
+sultorio_C Especialidad_3 10 8
+sultorio_D Especialidad_4 10 8
+sultorio_E Especialidad_5 10 8
+sultorio_F Especialidad_6 10 8
+sultorio_G Especialidad_3 10 8
+sultorio_H Especialidad_2 10 8
+sultorio_I Especialidad_4 10 8

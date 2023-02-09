@@ -1,0 +1,27 @@
+26
+Consultorio_A Consultorio_B 5
+Consultorio_A Consultorio_C 10
+Consultorio_B Consultorio_A 5
+Consultorio_B Consultorio_D 32
+Consultorio_B Consultorio_G 6
+Consultorio_C Consultorio_A 10
+Consultorio_C Consultorio_D 15
+Consultorio_C Consultorio_F 45
+Consultorio_D Consultorio_B 32
+Consultorio_D Consultorio_C 15
+Consultorio_D Consultorio_F 40
+Consultorio_E Consultorio_F 49
+Consultorio_E Consultorio_I 69
+Consultorio_F Consultorio_C 45
+Consultorio_F Consultorio_D 40
+Consultorio_F Consultorio_E 49
+Consultorio_F Consultorio_G 5
+Consultorio_G Consultorio_B 6
+Consultorio_G Consultorio_F 5
+Consultorio_G Consultorio_H 114
+Consultorio_G Consultorio_I 47
+Consultorio_H Consultorio_G 114
+Consultorio_H Consultorio_I 60
+Consultorio_I Consultorio_E 69
+Consultorio_I Consultorio_G 47
+Consultorio_I Consultorio_H 60
